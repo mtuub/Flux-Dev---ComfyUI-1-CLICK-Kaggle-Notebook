@@ -1,6 +1,6 @@
 # Flux Dev - ComfyUI 1-CLICK Kaggle Notebook
 
-Tutorial: https://www.youtube.com/watch?v=ZgfThpZvjvE
+Tutorial: [https://www.youtube.com/watch?v=ZgfThpZvjvE](https://www.youtube.com/watch?v=80VLXpFp6SM)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/80VLXpFp6SM/0.jpg)](https://www.youtube.com/watch?v=80VLXpFp6SM)
 
